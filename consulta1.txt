@@ -1,0 +1,2 @@
+apellidos;nombres;direccion;ciudad;telefono;e-mail;ocupacion;lugar_procedencia
+Fernandez Filiberto;Ibuprofeno del Jesús;Calle de la Pastilla 1525;Botiquin;555-555-555;ibuprofeno@pastilla.ja;Analgésico;Laboratorio

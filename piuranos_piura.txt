@@ -1,0 +1,2 @@
+Apellidos;Nombres;Direccion;Ciudad;Dpto / Edo;Pais;Telefono;Email;URL;Ocupacion;Lugar de Procedencia
+MASIAS VERGARA;MANUEL ANTONIO;URB IGNACIO MERINO 2-L27;PIURA;PIURA;PERU;305596;aracnido@correo.udep.edu.pe;http://members.xoom.com/aracnido;Estudiante Universitario;TRUJILLO
